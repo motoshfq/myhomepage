@@ -156,12 +156,6 @@ const default_config = {
               icon_color: "#dbc244",
             },
             {
-              name: "Gmail",
-              url: "https://uxpro.cc/",
-              icon: "mail",
-              icon_color: "#db4944",
-            },
-            {
               name: "Google Drive",
               url: "https://drive.google.com/drive/my-drive?hl=ru",
               icon: "brand-google-drive",
@@ -186,7 +180,7 @@ const default_config = {
             },
             {
               name: "DeepL",
-              url: "https://calendar.google.com/calendar/u/0/r",
+              url: "https://www.deepl.com/ru/translator",
               icon: "world-longitude",
               icon_color: "#5c76cc",
             },
@@ -253,7 +247,7 @@ const default_config = {
               name: "JudoSpirit",
               url: "https://ukraine-judo.github.io/git-judospirit",
               icon: "ghost-3",
-              icon_color: "#ad4747",
+              icon_color: "#d94141",
             },
           ],
         },
@@ -261,8 +255,20 @@ const default_config = {
           name: "mails",
           links: [
             {
-              name: "Google Mail",
+              name: "Motoshfq0",
               url: "https://mail.google.com/mail/u/0/",
+              icon: "brand-gmail",
+              icon_color: "#ea6962",
+            },
+            {
+              name: "Motoshfq",
+              url: "https://mail.google.com/mail/u/1/",
+              icon: "brand-gmail",
+              icon_color: "#ea6962",
+            },
+            {
+              name: "Buzzvip3.0",
+              url: "https://mail.google.com/mail/u/2/",
               icon: "brand-gmail",
               icon_color: "#ea6962",
             },
@@ -275,36 +281,13 @@ const default_config = {
           ],
         },
         {
-          name: "storage",
+          name: "Git",
           links: [
             {
-              name: "Google Drive",
+              name: "GitHub",
               url: "https://drive.google.com/drive/u/0/my-drive",
-              icon: "brand-google-drive",
-              icon_color: "#e78a4e",
-            },
-            {
-              name: "Dropbox",
-              url: "https://www.dropbox.com/home",
-              icon: "box-seam",
-              icon_color: "#7daea3",
-            },
-            {
-              name: "Photo",
-              url: "https://photos.google.com/u/2/",
-              icon: "photo-filled",
-              icon_color: "#ea6962",
-            },
-          ],
-        },
-        {
-          name: "stuff",
-          links: [
-            {
-              name: "linkedin",
-              url: "https://www.linkedin.com/feed/",
-              icon: "brand-linkedin",
-              icon_color: "#7daea3",
+              icon: "brand-github",
+              icon_color: "#ebebeb",
             },
           ],
         },
